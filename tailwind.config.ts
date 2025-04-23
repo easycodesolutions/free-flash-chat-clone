@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				snap: {
+					yellow: 'hsl(var(--snap-yellow))',
+					blue: 'hsl(var(--snap-blue))',
+					purple: 'hsl(var(--snap-purple))',
+					red: 'hsl(var(--snap-red))',
+					green: 'hsl(var(--snap-green))',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
